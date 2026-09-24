@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://cecil-theatre-cloudflare.pages.dev/sitemap.xml
