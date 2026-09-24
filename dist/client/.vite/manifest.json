@@ -1,0 +1,400 @@
+{
+  "_AccordionRootContext-CZZTE-aB.js": {
+    "file": "_next/static/chunks/AccordionRootContext-CZZTE-aB.js",
+    "name": "AccordionRootContext",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_CollapsibleRootContext-BMKeHMtX.js": {
+    "file": "_next/static/chunks/CollapsibleRootContext-BMKeHMtX.js",
+    "name": "CollapsibleRootContext",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_CompositeListContext-DIHf7ZFD.js": {
+    "file": "_next/static/chunks/CompositeListContext-DIHf7ZFD.js",
+    "name": "CompositeListContext",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_Icon-CpjhQgvA.js": {
+    "file": "_next/static/chunks/Icon-CpjhQgvA.js",
+    "name": "Icon",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_collapsibleOpenStateMapping-DJH2Gkec.js": {
+    "file": "_next/static/chunks/collapsibleOpenStateMapping-DJH2Gkec.js",
+    "name": "collapsibleOpenStateMapping",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_stateAttributesMapping-B4HXTPBU.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_framework-D_rUT4EX.js": {
+    "file": "_next/static/chunks/framework-D_rUT4EX.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js"
+    ]
+  },
+  "_input-CcwVDe5G.js": {
+    "file": "_next/static/chunks/input-CcwVDe5G.js",
+    "name": "input",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_shadowDom-slNggTiX.js",
+      "_useButton-QpoLvx85.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_stateAttributesMapping-B4HXTPBU.js",
+      "_useOpenChangeComplete-Kyzvn4R5.js",
+      "_useTransitionStatus-Bydu7T4e.js",
+      "_owner-X0uMmaVj.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_useControlled-CzeZQnvs.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_owner-X0uMmaVj.js": {
+    "file": "_next/static/chunks/owner-X0uMmaVj.js",
+    "name": "owner"
+  },
+  "_rolldown-runtime-C60lm6uB.js": {
+    "file": "_next/static/chunks/rolldown-runtime-C60lm6uB.js",
+    "name": "rolldown-runtime"
+  },
+  "_shadowDom-slNggTiX.js": {
+    "file": "_next/static/chunks/shadowDom-slNggTiX.js",
+    "name": "shadowDom",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_owner-X0uMmaVj.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_Icon-CpjhQgvA.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_site-link-BMT7Rlaz.js": {
+    "file": "_next/static/chunks/site-link-BMT7Rlaz.js",
+    "name": "site-link",
+    "imports": [
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_stateAttributesMapping-B4HXTPBU.js": {
+    "file": "_next/static/chunks/stateAttributesMapping-B4HXTPBU.js",
+    "name": "stateAttributesMapping"
+  },
+  "_stateAttributesMapping-CW_EVnbW.js": {
+    "file": "_next/static/chunks/stateAttributesMapping-CW_EVnbW.js",
+    "name": "stateAttributesMapping",
+    "imports": [
+      "_collapsibleOpenStateMapping-DJH2Gkec.js",
+      "_stateAttributesMapping-B4HXTPBU.js"
+    ]
+  },
+  "_useAnimationFrame-BUh-yQX1.js": {
+    "file": "_next/static/chunks/useAnimationFrame-BUh-yQX1.js",
+    "name": "useAnimationFrame",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useButton-QpoLvx85.js": {
+    "file": "_next/static/chunks/useButton-QpoLvx85.js",
+    "name": "useButton",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_owner-X0uMmaVj.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useControlled-CzeZQnvs.js": {
+    "file": "_next/static/chunks/useControlled-CzeZQnvs.js",
+    "name": "useControlled",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useOpenChangeComplete-Kyzvn4R5.js": {
+    "file": "_next/static/chunks/useOpenChangeComplete-Kyzvn4R5.js",
+    "name": "useOpenChangeComplete",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useRenderElement-BMmi9Vpy.js": {
+    "file": "_next/static/chunks/useRenderElement-BMmi9Vpy.js",
+    "name": "useRenderElement",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useStableCallback-CO8bggJ4.js": {
+    "file": "_next/static/chunks/useStableCallback-CO8bggJ4.js",
+    "name": "useStableCallback",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useTransitionStatus-Bydu7T4e.js": {
+    "file": "_next/static/chunks/useTransitionStatus-Bydu7T4e.js",
+    "name": "useTransitionStatus",
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "_useValueAsRef-CMXXQyT2.js": {
+    "file": "_next/static/chunks/useValueAsRef-CMXXQyT2.js",
+    "name": "useValueAsRef",
+    "imports": [
+      "_useRenderElement-BMmi9Vpy.js",
+      "_useStableCallback-CO8bggJ4.js"
+    ]
+  },
+  "components/analytics-consent.tsx": {
+    "file": "_next/static/chunks/analytics-consent-BFUrbDv0.js",
+    "name": "analytics-consent",
+    "src": "components/analytics-consent.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_site-link-BMT7Rlaz.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/forms/involvement-form.tsx": {
+    "file": "_next/static/chunks/involvement-form-tFw1Uslk.js",
+    "name": "involvement-form",
+    "src": "components/forms/involvement-form.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_site-link-BMT7Rlaz.js",
+      "_input-CcwVDe5G.js",
+      "_shadowDom-slNggTiX.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/forms/newsletter-form.tsx": {
+    "file": "_next/static/chunks/newsletter-form-Sx5JiPFo.js",
+    "name": "newsletter-form",
+    "src": "components/forms/newsletter-form.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_site-link-BMT7Rlaz.js",
+      "_input-CcwVDe5G.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/site-header.tsx": {
+    "file": "_next/static/chunks/site-header-Dzx-n8Nx.js",
+    "name": "site-header",
+    "src": "components/site-header.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_site-link-BMT7Rlaz.js",
+      "components/ticket-link.tsx",
+      "_shadowDom-slNggTiX.js",
+      "_useButton-QpoLvx85.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_stateAttributesMapping-B4HXTPBU.js",
+      "_useOpenChangeComplete-Kyzvn4R5.js",
+      "_useTransitionStatus-Bydu7T4e.js",
+      "_useValueAsRef-CMXXQyT2.js",
+      "_owner-X0uMmaVj.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/ticket-link.tsx": {
+    "file": "_next/static/chunks/ticket-link-C4_uQeoW.js",
+    "name": "ticket-link",
+    "src": "components/ticket-link.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "components/webmcp-tools.tsx": {
+    "file": "_next/static/chunks/webmcp-tools-CwPreXVq.js",
+    "name": "webmcp-tools",
+    "src": "components/webmcp-tools.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/header/AccordionHeader.mjs": {
+    "file": "_next/static/chunks/AccordionHeader-h5IPa2xB.js",
+    "name": "AccordionHeader",
+    "src": "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/header/AccordionHeader.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_collapsibleOpenStateMapping-DJH2Gkec.js",
+      "_stateAttributesMapping-CW_EVnbW.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/item/AccordionItem.mjs": {
+    "file": "_next/static/chunks/AccordionItem-BU0_9mVc.js",
+    "name": "AccordionItem",
+    "src": "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/item/AccordionItem.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_collapsibleOpenStateMapping-DJH2Gkec.js",
+      "_stateAttributesMapping-CW_EVnbW.js",
+      "_AccordionRootContext-CZZTE-aB.js",
+      "_CollapsibleRootContext-BMKeHMtX.js",
+      "_CompositeListContext-DIHf7ZFD.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_useTransitionStatus-Bydu7T4e.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_useControlled-CzeZQnvs.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/panel/AccordionPanel.mjs": {
+    "file": "_next/static/chunks/AccordionPanel-De7ZO27S.js",
+    "name": "AccordionPanel",
+    "src": "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/panel/AccordionPanel.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_collapsibleOpenStateMapping-DJH2Gkec.js",
+      "_stateAttributesMapping-CW_EVnbW.js",
+      "_AccordionRootContext-CZZTE-aB.js",
+      "_CollapsibleRootContext-BMKeHMtX.js",
+      "_useAnimationFrame-BUh-yQX1.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_useOpenChangeComplete-Kyzvn4R5.js",
+      "_useValueAsRef-CMXXQyT2.js",
+      "_owner-X0uMmaVj.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/root/AccordionRoot.mjs": {
+    "file": "_next/static/chunks/AccordionRoot-CJuorT9O.js",
+    "name": "AccordionRoot",
+    "src": "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/root/AccordionRoot.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_AccordionRootContext-CZZTE-aB.js",
+      "_CompositeListContext-DIHf7ZFD.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_useControlled-CzeZQnvs.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/trigger/AccordionTrigger.mjs": {
+    "file": "_next/static/chunks/AccordionTrigger-r1dNI1B0.js",
+    "name": "AccordionTrigger",
+    "src": "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/trigger/AccordionTrigger.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_collapsibleOpenStateMapping-DJH2Gkec.js",
+      "_CollapsibleRootContext-BMKeHMtX.js",
+      "_useButton-QpoLvx85.js",
+      "_useRenderElement-BMmi9Vpy.js",
+      "_useStableCallback-CO8bggJ4.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "_next/static/chunks/app-route-prefetch-policy-o79fSIW1.js",
+    "name": "app-route-prefetch-policy",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "_next/static/chunks/layout-segment-context-BmIjnwET.js",
+    "name": "layout-segment-context",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "_next/static/chunks/streamed-icons-DG1YI3Pu.js",
+    "name": "streamed-icons",
+    "src": "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "_next/static/chunks/index-B547CteD.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-C60lm6uB.js",
+      "_framework-D_rUT4EX.js"
+    ],
+    "dynamicImports": [
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "_Icon-CpjhQgvA.js",
+      "components/webmcp-tools.tsx",
+      "components/forms/involvement-form.tsx",
+      "components/ticket-link.tsx",
+      "virtual:vinext-app-browser-entry",
+      "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/trigger/AccordionTrigger.mjs",
+      "components/site-header.tsx",
+      "components/analytics-consent.tsx",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "node_modules/.pnpm/vinext@1.0.0-beta.5_@vitejs+plugin-react@6.0.2_vite@8.0.13_@types+node@22.19.19_esbuild_350d3b71af91b301fd986fd1c554132d/node_modules/vinext/dist/shims/streamed-icons.js",
+      "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/header/AccordionHeader.mjs",
+      "components/forms/newsletter-form.tsx",
+      "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/root/AccordionRoot.mjs",
+      "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/item/AccordionItem.mjs",
+      "node_modules/.pnpm/@base-ui+react@1.7.0_@date-fns+tz@1.5.0_@types+react@19.2.14_date-fns@4.1.0_react-dom@19.2.6_react@19.2.6__react@19.2.6/node_modules/@base-ui/react/accordion/panel/AccordionPanel.mjs"
+    ]
+  }
+}
