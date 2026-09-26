@@ -1,0 +1,25 @@
+/* Keep the full organization name inside the extended red header mark. */
+.wordmark--header {
+  gap: 0;
+}
+
+.wordmark--header .wordmark__monogram {
+  width: auto;
+  min-height: 2.55rem;
+  aspect-ratio: auto;
+  padding: 0.45rem 0.95rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  letter-spacing: 0.075em;
+  line-height: 1.1;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+@media (max-width: 540px) {
+  .wordmark--header .wordmark__monogram {
+    min-height: 2.4rem;
+    padding-inline: 0.78rem;
+    font-size: 0.62rem;
+  }
+}
