@@ -1,6 +1,7 @@
 'use client';
 
 import { Menu } from 'lucide-react';
+import './site-header.css';
 import Link from '@/components/site-link';
 import { TicketLink } from '@/components/ticket-link';
 import { useState } from 'react';
@@ -50,14 +51,13 @@ export function SiteHeader() {
       <header className="site-header">
         <div className="site-shell site-header__inner">
           <Link
-            className="wordmark"
+            className="wordmark wordmark--header"
             href="/"
             aria-label="Cecil Theatre Project home"
           >
             <span className="wordmark__monogram" aria-hidden="true">
-              CTP
+              Cecil Theatre Project
             </span>
-            <span className="wordmark__name">Cecil Theatre Project</span>
           </Link>
           <nav
             className="primary-nav primary-nav--desktop"
